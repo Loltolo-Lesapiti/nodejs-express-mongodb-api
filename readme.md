@@ -33,8 +33,8 @@ Before running this application, make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Loltolo-Lesapiti/product-crud-api.git
-cd product-crud-api
+git clone https://github.com/Loltolo-Lesapiti/nodejs-express-mongodb-api
+cd  nodejs-express-mongodb-api
 ```
 
 ### 2. Install dependencies
@@ -450,7 +450,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Petro Lesapiti - petrolesapiti@gmail.com
 
-Project Link: [https://github.com/Loltolo-Lesapiti/product-crud-api](https://github.com/Loltolo-Lesapiti/product-crud-api)
+Project Link: [clone https://github.com/Loltolo-Lesapiti/nodejs-express-mongodb-api](https://github.com/Loltolo-Lesapiti/nodejs-express-mongodb-api)
 
 ## 🙏 Acknowledgments
 
